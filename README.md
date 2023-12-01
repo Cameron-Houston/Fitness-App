@@ -1,3 +1,4 @@
 # fitness_app
 
-A new Flutter project.
+A Mini-Project of a Fitness app 
+(WIP)
